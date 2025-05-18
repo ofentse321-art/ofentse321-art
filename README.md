@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Matthews 
+- 🧠 I am a beginner in SQL, Excel, Python(Pandas, Sklearn), JavaScript(Brain.js), Tensor Flow, HTML, CSS, R(stats), Tableau
 - 👀 I’m interested in Data Analysis, Data Science, Machine Learning, AI, Website Development 
 - 🌱 I’m currently learning JavaScript, Tensorflow and Sklearn 
 - 💞️ I’m looking to collaborate on Data Analysis and Data Science internship 
